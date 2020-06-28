@@ -1,11 +1,16 @@
 # timetracking.ps1
 Powershell script for automated logging of users login time
 
-## about
+## motivation
 
-- powershell that helps to record login time of a user on the PC 
-- it detects if the user locks the the screen ``[WIN]``+``[L]``
-- logs login time every 15sec to a file
+Sometimes it is hard to keep track of time spend in home office.
+This script tells you, how long you have been working. 
+
+## features
+
+- helps to record login time of a user on the PC 
+- detects if the user locks the the screen ``[WIN]``+``[L]``
+- periodically logs login time every to a file
 
 ## usage
 
