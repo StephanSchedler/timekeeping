@@ -14,6 +14,6 @@ This script tells you, how long you have been working.
 
 ## usage
 
-- download powershell script
+- download powershell script ([timetracking.ps1](https://github.com/StephanSchedler/timetracking.ps1/releases))
 - edit default $outputDirectory in the header
 - run powershell script
